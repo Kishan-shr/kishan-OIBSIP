@@ -1,0 +1,187 @@
+
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-family:sans-serif;
+    color:rgb(146, 96, 96);
+}
+.paragraph2{
+    text-align:center;
+    font-size: 100px;
+    font-family: nos;
+    color:rgb(105, 104, 104);
+}
+.paragraph3{
+    text-align:center;
+    font-size: 100px;
+    font-family: nos;
+    color:rgb(105, 104, 104);
+}
+.paragraph4{
+    text-align:center;
+    font-size: 100px;
+    font-family: nos;
+    color:rgb(105, 104, 104);
+}
+.menu-bar
+{
+text-align:center;
+background-color: #000000;
+}
+.menu-bar ul
+{
+   display: inline-flex;
+   color:floralwhite
+   
+}
+.menu-bar ul li
+{
+    font-family: Impact;
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+     font-size: 20px;
+}
+
+.menu-bar ul li:hover
+{
+
+    color: floralwhite;
+    color: rgb(105, 104, 104);
+    border-radius:3px;
+    transform: scale(2);
+    
+}
+
+.MAX{
+  
+    color: floralwhite;
+    background: rgb(74, 72, 72);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: -15px;
+}
+
+
+.Book-Now{
+   
+    color: floralwhite;
+    background: rgb(227, 26, 26);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: -15px; 
+}
+.Book-Now:hover{
+    background: rgb(54, 1, 1);
+}
+.Register{
+  
+    color: floralwhite;
+    background: rgb(227, 26, 26);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: -15px;
+}
+.Register:hover{
+    background: rgb(54, 1, 1);
+}
+
+.icon0{
+    display: flex;
+    font-size: 3rem;
+    margin-top:0;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+    
+}
+
+.icon0 a { margin-right:75px; }
+
+.icon0 :hover{
+    color: #05a70f;
+    transform: scale(1.5);
+    
+}
+.icon1{
+    display: flex;
+    font-size: 3rem;
+    margin-top: 20px;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+    
+}
+
+.icon1 a { margin-right:75px; }
+
+.icon1 :hover{ 
+    transform: scale(1.5);
+    color: #595b60b5;
+}
+.icon2{
+    display: flex;
+    font-size: 3rem;
+    margin-top:0;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+    
+}
+
+.icon2 a { margin-right:75px; }
+
+.icon2 :hover{
+    color: #379ef8b5;
+    transform: scale(1.5);
+   
+}
+.icon3{
+    display: flex;
+    font-size: 3rem;
+    margin-top:0;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+    
+}
+
+.icon3 a { margin-right:75px; }
+
+.icon3 :hover{
+    transform: scale(1.5);
+   color:#ef4f0bf3 ; 
+}
+
+.footer{
+    background-color:black;
+    margin-top:20%;
+}
+.p1{
+    color: floralwhite;
+    font-size: larger;
+    padding-bottom: 10px;
+    
+}
