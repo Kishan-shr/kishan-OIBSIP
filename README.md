@@ -1,12 +1,15 @@
 # kishan-OIBSIP
 ### 🏆 **Multi-Project Repository** 🏆  
 **📌 Repository:** [Kishan OIBSIP](https://github.com/Kishan-shr/kishan-OIBSIP)  
+  ## Author
+Developed with ❤️ by KISHAN SHARMA
+linkedin : https://www.linkedin.com/in/kishanshr/
 
 This repository contains three different projects:  
 
-1. **Task 1 - Max-Travel Website** 🏝️  
-2. **Task 2 - Portfolio Website** 💼  
-3. **Task 3 - Temperature Converter** 🌡️  
+1. **Task 1 - Max-Travel Website** 🏝️  link :https://dashing-stardust-858de8.netlify.app/
+2. **Task 2 - Portfolio Website** 💼   link:https://musical-praline-f94c31.netlify.app/?name=&email=&+msg=#service
+3. **Task 3 - Temperature Converter** 🌡️  link:https://resonant-creponne-2781b0.netlify.app/
 
 ---
  ![Design preview for the OASIS Task1-platform ](Design/Task1.jpeg)
@@ -68,8 +71,8 @@ This repository contains three different projects:
 📌 `style.css` – Styling and layout  
 📌 `assets/` – Images and icons  
 
-💻 **Live Preview:** [Max-Travel Demo](#) _(Add deployed link if available)_  
-
+💻 **Live Preview:** [Max-Travel Demo](#)  
+Task1 :https://dashing-stardust-858de8.netlify.app/
 ---
 
 ## 💼 **Task 2 - Portfolio Website**  
@@ -88,7 +91,8 @@ This repository contains three different projects:
 📌 `phone.css`, `tablet.css` – Responsive styles  
 📌 `assets/` – Images and resources  
 
-💻 **Live Preview:** [Portfolio Demo](#) _(Add deployed link if available)_  
+💻 **Live Preview:** [Portfolio Demo](#)
+Task2 :https://musical-praline-f94c31.netlify.app/?name=&email=&+msg=#service
 
 ---
 
@@ -107,11 +111,10 @@ This repository contains three different projects:
 📌 `style.css` – Styling for the converter  
 📌 `index.js` – JavaScript logic for conversion  
 
-  ## Author
-Developed with ❤️ by KISHAN SHARMA
-linkedin : https://www.linkedin.com/in/kishanshr/
 
-💻 **Live Preview:** [Temperature Converter Demo](#) _(Add deployed link if available)_  
+
+💻 **Live Preview:** [Temperature Converter Demo](#) 
+Task3 :https://resonant-creponne-2781b0.netlify.app/
 
 ---
 
@@ -141,7 +144,7 @@ For **Task 3 (Temperature Converter)**, ensure JavaScript is enabled in your bro
 
 For any inquiries, feel free to reach out!  
 
-👤 **Portfolio Owner:** [Kishan Sharma](#) _(Add LinkedIn or Portfolio link)_  
+👤 **Portfolio Owner:** [Kishan Sharma](#) _(https://www.linkedin.com/in/kishanshr/)_  
 🌍 **Travel Agency:** Max-Travel Team  
 
 ---
