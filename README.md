@@ -9,6 +9,9 @@ This repository contains three different projects:
 3. **Task 3 - Temperature Converter** 🌡️  
 
 ---
+ ![Design preview for the OASIS Task1-platform ](Design/Task1.jpeg)
+ ![Design preview for the OASIS Task2-platform ](Design/Task_2.jpeg)
+ ![Design preview for the OASIS Task3-platform ](Design/Task3.jpeg)
 
 ## 🚀 Tech Stack & Tools  
 
